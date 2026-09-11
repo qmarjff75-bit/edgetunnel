@@ -1,4 +1,10 @@
-# 🚀 edgetunnel 2.1
+# 边缘隧道 2.1
+
+这是我的项目。
+
+Cloudflare部署更新。
+
+Cloudflare redeploy
 ![后台页面](./img.png)
 
 [![Stars](https://img.shields.io/github/stars/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/stargazers)
@@ -222,3 +228,4 @@
 ---
 
 **如果您觉得项目对您有帮助，请给一个 Star 🌟，这是对我最大的鼓励！**
+Cloudflare redeploy
